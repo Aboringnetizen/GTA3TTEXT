@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.fdb-block .text-h1, .fdb-block h1 {
+    font-size: 1.75rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.c1441 {
+    padding: 10px;
+}
